@@ -1,0 +1,8 @@
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/temp/VR Labs/.utmp/Debug/5zd4a373/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
