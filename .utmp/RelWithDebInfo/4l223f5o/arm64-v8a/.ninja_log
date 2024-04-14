@@ -1,0 +1,21 @@
+# ninja log v5
+42	482	7347475677554275	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	525011dca473f9aa
+11	1698	7347475689208760	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3df08ce5bb276bbf
+24	1633	7347475688543401	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6a615a4e02da670d
+522	1017	7347475680555811	M:/4th Year courseworks/Immersive Tech/Vr Game/VR-Lab/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4l223f5o/obj/arm64-v8a/libswappywrapper.so	8e872ce0ec5c6740
+17	1255	7347475684708762	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e9263b4c3214f8b1
+6	1428	7347475686521811	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ebdc5c68150ffac8
+30	1308	7347475685304011	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	493b34d1b4f88fa7
+0	1309	7347475685304011	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	140b7cb91cef9a27
+36	1491	7347475686521811	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a159ce8cfb70d143
+1698	1820	7347475690655975	M:/4th Year courseworks/Immersive Tech/Vr Game/VR-Lab/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4l223f5o/obj/arm64-v8a/libgame.so	eeb6b891d20a7a07
+36	158	7347500897944057	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	525011dca473f9aa
+158	346	7347500899431025	M:/4th Year courseworks/Immersive Tech/Vr Game/VR-Lab/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4l223f5o/obj/arm64-v8a/libswappywrapper.so	8e872ce0ec5c6740
+23	852	7347500904835690	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e9263b4c3214f8b1
+7	861	7347500904895796	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	140b7cb91cef9a27
+27	890	7347500905274503	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	493b34d1b4f88fa7
+31	960	7347500905950627	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a159ce8cfb70d143
+15	1000	7347500906358276	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ebdc5c68150ffac8
+19	1123	7347500907583953	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6a615a4e02da670d
+11	1188	7347500908248232	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3df08ce5bb276bbf
+1188	1302	7347500909044079	M:/4th Year courseworks/Immersive Tech/Vr Game/VR-Lab/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4l223f5o/obj/arm64-v8a/libgame.so	eeb6b891d20a7a07

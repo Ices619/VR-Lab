@@ -1,0 +1,11 @@
+# ninja log v5
+42	344	7347478639120636	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bd8651ded55994cd
+344	842	7347478641426903	M:/4th Year courseworks/Immersive Tech/Vr Game/VR-Lab/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.VRGame/gradle-project/unityLibrary/build/intermediates/cxx/Debug/5b52s108/obj/arm64-v8a/libswappywrapper.so	af43af76c6586b13
+11	1174	7347478648161465	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bad597f170f23f51
+16	1200	7347478648131456	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	24164fc37e5c65d7
+29	1213	7347478648476700	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1b3280fab16ed192
+33	1214	7347478648506710	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	25e3a30349b15ba3
+6	1227	7347478648756921	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fc6111b876991043
+23	1297	7347478649539069	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	21c26bbe45915f53
+1	1359	7347478650155124	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ce7740460bd149c2
+1359	1468	7347478650874599	M:/4th Year courseworks/Immersive Tech/Vr Game/VR-Lab/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.VRGame/gradle-project/unityLibrary/build/intermediates/cxx/Debug/5b52s108/obj/arm64-v8a/libgame.so	ba656c55a7df269d
