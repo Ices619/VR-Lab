@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Pirate World.unity
     guid: 533cfc41220d639428b9f3402c495925
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: 97b82c3db19dcdf4f8d47bc770ed7197
   - enabled: 1
     path: Assets/Scenes/Final Pirate World.unity
     guid: 2cf5ac5978297c24b8fd059cad7d3dee
