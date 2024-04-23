@@ -8,6 +8,8 @@ public class Lock : MonoBehaviour
     [SerializeField] GameObject door;
     [SerializeField] GameObject handle;
     [SerializeField] GameObject key;
+    public AudioSource src;
+    public AudioClip sfx1;
     private bool locked;
     // Start is called before the first frame update
     void Start()
@@ -37,6 +39,8 @@ public class Lock : MonoBehaviour
         handle.GetComponent<BoxCollider>().enabled = true;
         this.GetComponent<Rigidbody>().isKinematic = false;
         this.GetComponent<BoxCollider>().isTrigger = false;
+        src.clip = sfx1;
+        src.Play();
         locked = false;
     }
 }
