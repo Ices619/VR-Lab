@@ -22,7 +22,6 @@ public class GameEvents : MonoBehaviour
         if (eventCradleActive != null)
         {
             eventCradleActive();
-
         }
     }
 

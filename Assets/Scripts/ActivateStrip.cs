@@ -5,6 +5,9 @@ using UnityEngine;
 public class ActivateStrip : MonoBehaviour
 {
     [SerializeField] GameObject ActiveStrip;
+    public AudioSource src;
+    public AudioClip sfx1;
+    public AudioClip sfx2;
 
     private void Start()
     {
@@ -17,11 +20,15 @@ public class ActivateStrip : MonoBehaviour
     private void Activate()
     {
         ActiveStrip.SetActive(true);
+            src.clip = sfx1;
+            src.Play();
     }
 
     private void Deactivate()
     {
         ActiveStrip.SetActive(false);
+        src.clip = sfx2;
+        src.Play();
     }
 
 
